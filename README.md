@@ -72,3 +72,8 @@ git pull origin main
 ```
 Note: origin--> contains url to your github repo
 main--> is your branch name
+
+```
+to use our code as library we need to create setup fine 
+which can be distributed and used in other project 
+```
