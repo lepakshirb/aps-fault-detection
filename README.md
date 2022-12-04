@@ -73,7 +73,10 @@ git pull origin main
 Note: origin--> contains url to your github repo
 main--> is your branch name
 
+
+.env file has
 ```
-to use our code as library we need to create setup fine 
-which can be distributed and used in other project 
+MONGO_DB_URL="mongodb://localhost:27017"
+AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
+AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
 ```
